@@ -1,0 +1,13 @@
+ Gen index starts from 1.
+ No., idxContiGen, genBusNum, genID
+ 1 1 1 1
+ 2 2 2 1
+ 3 3 7 1
+ 4 4 13 1
+ 5 5 14 1
+ 6 6 15 1
+ 7 7 16 1
+ 8 8 18 1
+ 9 9 21 1
+ 10 10 22 1
+ 11 11 23 1

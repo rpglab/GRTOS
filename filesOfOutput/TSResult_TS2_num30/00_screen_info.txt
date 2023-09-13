@@ -1,0 +1,136 @@
+uri: psseraw:file=input/case2383busPsse30_rev21.raw&lowx=adjust
+
+Number of Generator    Contingency to be checked with TS is: 3
+Number of Transmission Contingency to be checked with TS is: 7
+Initialize file C:\Users\xli83\Workspace\Java_Projects\EPSO_uh\EPSO_XL/filesOfOutput/TSResult/results_BestTS_PerBrcConti.txt successfully.
+Initialize file C:\Users\xli83\Workspace\Java_Projects\EPSO_uh\EPSO_XL/filesOfOutput/TSResult/results_BestTS_PerGenConti.txt successfully.
+Initialize file C:\Users\xli83\Workspace\Java_Projects\EPSO_uh\EPSO_XL/filesOfOutput/TSResult/case2383busPsse30_rev21.raw/results_SumVio_PerTS.txt successfully.
+Initialize file C:\Users\xli83\Workspace\Java_Projects\EPSO_uh\EPSO_XL/filesOfOutput/TSResult/case2383busPsse30_rev21.raw/results_ElemsVio_PerTS.txt successfully.
+
+Check TS on Gen Contingency: 30 (index from 0)
+    The power flow under this contingency converged.
+        The summation of flow    violation: 0.30035067
+        The summation of voltage violation: 0.0
+    Running Transm Swit...
+      TS process is finished.
+      # of switching actions checked : 30
+      Solution time of TS process: 1.2093098
+    Output Best TS Data successfully
+    The 1-th Gen Contingency is done with TS process.
+    Total time until now: 1.8232113
+
+Check TS on Gen Contingency: 204 (index from 0)
+    The power flow under this contingency converged.
+        The summation of flow    violation: 0.14455462
+        The summation of voltage violation: 0.0
+    Running Transm Swit...
+      TS process is finished.
+      # of switching actions checked : 30
+      Solution time of TS process: 1.1371173
+    Output Best TS Data successfully
+    The 2-th Gen Contingency is done with TS process.
+    Total time until now: 3.029664
+
+Check TS on Gen Contingency: 244 (index from 0)
+    The power flow under this contingency converged.
+        The summation of flow    violation: 0.09640306
+        The summation of voltage violation: 0.0
+    Running Transm Swit...
+      TS process is finished.
+      # of switching actions checked : 30
+      Solution time of TS process: 1.1349983
+    Output Best TS Data successfully
+    The 3-th Gen Contingency is done with TS process.
+    Total time until now: 4.268683
+
+Check TS on Brc Contingency: 158 (index from 0)
+    The power flow under this contingency converged.
+        The summation of flow    violation: 0.05039382
+        The summation of voltage violation: 0.0
+    Running Transm Swit...
+      TS process is finished.
+      # of switching actions checked : 30
+      Solution time of TS process: 1.129529
+    Output Best TS Data successfully
+    The 1-th Brc Contingency is done with TS process.
+    Total time until now: 5.46321
+
+Check TS on Brc Contingency: 159 (index from 0)
+    The power flow under this contingency converged.
+        The summation of flow    violation: 0.076773286
+        The summation of voltage violation: 0.0
+    Running Transm Swit...
+      TS process is finished.
+      # of switching actions checked : 30
+      Solution time of TS process: 1.0726867
+    Output Best TS Data successfully
+    The 2-th Brc Contingency is done with TS process.
+    Total time until now: 6.605614
+
+Check TS on Brc Contingency: 169 (index from 0)
+    The power flow under this contingency converged.
+        The summation of flow    violation: 0.20959663
+        The summation of voltage violation: 0.0
+    Running Transm Swit...
+      TS process is finished.
+      # of switching actions checked : 30
+      Solution time of TS process: 1.0544001
+    Output Best TS Data successfully
+    The 3-th Brc Contingency is done with TS process.
+    Total time until now: 7.74552
+
+Check TS on Brc Contingency: 2019 (index from 0)
+    The power flow under this contingency converged.
+        The summation of flow    violation: 0.07400942
+        The summation of voltage violation: 0.0
+    Running Transm Swit...
+      TS process is finished.
+      # of switching actions checked : 30
+      Solution time of TS process: 1.1655558
+    Output Best TS Data successfully
+    The 4-th Brc Contingency is done with TS process.
+    Total time until now: 8.972448
+
+Check TS on Brc Contingency: 2270 (index from 0)
+    The power flow under this contingency converged.
+        The summation of flow    violation: 0.08532798
+        The summation of voltage violation: 0.0
+    Running Transm Swit...
+      TS process is finished.
+      # of switching actions checked : 30
+      Solution time of TS process: 1.1141089
+    Output Best TS Data successfully
+    The 5-th Brc Contingency is done with TS process.
+    Total time until now: 10.150596
+
+Check TS on Brc Contingency: 2388 (index from 0)
+    The power flow under this contingency converged.
+        The summation of flow    violation: 0.08540094
+        The summation of voltage violation: 0.0
+    Running Transm Swit...
+      TS process is finished.
+      # of switching actions checked : 30
+      Solution time of TS process: 1.1441115
+    Output Best TS Data successfully
+    The 6-th Brc Contingency is done with TS process.
+    Total time until now: 11.363738
+
+Check TS on Brc Contingency: 2810 (index from 0)
+    The power flow under this contingency converged.
+        The summation of flow    violation: 0.059631824
+        The summation of voltage violation: 0.0
+    Running Transm Swit...
+      TS process is finished.
+      # of switching actions checked : 30
+      Solution time of TS process: 0.95995176
+    Output Best TS Data successfully
+    The 7-th Brc Contingency is done with TS process.
+    Total time until now: 12.390698
+
+
+Output filesChecked.txt to a file successfully.
+Output Transm Swit Data successfully
+Output Transm Swit Data for Gen Cont successfully
+Output Transm Swit Data for Transm Cont successfully
+
+    Total time : 12.411143

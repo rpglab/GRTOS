@@ -1,0 +1,4 @@
+psseraw:file=IEEE24busPsse30.raw&lowx=adjust
+psseraw:file=input/IEEE24busPsse30.raw&lowx=adjust
+psseraw:file=input/IEEE24busPsse30.raw&lowx=adjust
+psseraw:file=input/IEEE24busPsse30.raw&lowx=adjust

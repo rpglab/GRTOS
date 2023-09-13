@@ -1,0 +1,115 @@
+uri: psseraw:file=input/IEEE24busPsse30.raw&lowx=adjust
+
+The original power flow converged.
+Generator contingency analysis starts running
+Gen Contingency: 0, _rank: 0
+Gen Contingency: 1, _rank: 0
+Gen Contingency: 2, _rank: 0
+Gen Contingency: 3, _rank: 0
+Gen Contingency: 4, _rank: 0
+Gen Contingency: 5, _rank: 0
+Gen Contingency: 6, _rank: 0
+Gen Contingency: 7, _rank: 0
+Gen Contingency: 8, _rank: 0
+Gen Contingency: 9, _rank: 0
+Gen Contingency: 10, _rank: 0
+Generator contingency analysis simulation is done
+   Number of generator contingencies simulated: 11
+   Gen time : 0.1921881
+Transmission contingency analysis starts running
+Brc Contingency: 0, _rank: 0
+Brc Contingency: 1, _rank: 0
+Brc Contingency: 2, _rank: 0
+Brc Contingency: 3, _rank: 0
+Brc Contingency: 4, _rank: 0
+Brc Contingency: 5, _rank: 0
+Brc Contingency: 6, _rank: 0
+Brc Contingency: 7, _rank: 0
+Brc Contingency: 8, _rank: 0
+Brc Contingency: 10, _rank: 0
+Brc Contingency: 11, _rank: 0
+Brc Contingency: 12, _rank: 0
+Brc Contingency: 13, _rank: 0
+Brc Contingency: 14, _rank: 0
+Brc Contingency: 15, _rank: 0
+Brc Contingency: 16, _rank: 0
+Brc Contingency: 17, _rank: 0
+Brc Contingency: 18, _rank: 0
+Brc Contingency: 19, _rank: 0
+Brc Contingency: 20, _rank: 0
+Brc Contingency: 21, _rank: 0
+Brc Contingency: 22, _rank: 0
+Brc Contingency: 23, _rank: 0
+Brc Contingency: 24, _rank: 0
+Brc Contingency: 25, _rank: 0
+Brc Contingency: 26, _rank: 0
+Brc Contingency: 27, _rank: 0
+Brc Contingency: 28, _rank: 0
+Brc Contingency: 29, _rank: 0
+Brc Contingency: 30, _rank: 0
+Brc Contingency: 31, _rank: 0
+Brc Contingency: 32, _rank: 0
+Brc Contingency: 33, _rank: 0
+Brc Contingency: 34, _rank: 0
+Brc Contingency: 35, _rank: 0
+Brc Contingency: 36, _rank: 0
+Brc Contingency: 37, _rank: 0
+Transmission contingency analysis simulation is done
+   Number of transmission contingencies simulated: 37
+   Gen + Transm time : 0.22807181
+There is no violations in the base case.
+
+Original summaryInfoTransm.txt is deleted.
+Output summaryInfoTransm.txt info to a file successfully.
+
+Original sumVioPerContTransm.txt is deleted.
+Output sumVioPerContTransm.txt info to a file successfully.
+
+Original VioVmTransm.txt is deleted.
+Output VioVmTransm.txt info to a file successfully.
+
+Original VioBrcTransm.txt is deleted.
+Output VioBrcTransm.txt info to a file successfully.
+
+Original NotConvTransm.txt is deleted.
+Output NotConvTransm.txt info to a file successfully.
+
+Original PerCont_VmVio_Transm.txt is deleted.
+Output PerCont_VmVio_Transm.txt info to a file successfully.
+
+Original PerCont_BrcVio_Transm.txt is deleted.
+Output PerCont_BrcVio_Transm.txt info to a file successfully.
+
+Original PerCont_PVtoPQ_Transm.txt is deleted.
+Output PerCont_PVtoPQ_Transm.txt info to a file successfully.
+
+Original summaryInfoGen.txt is deleted.
+Output summaryInfoGen.txt info to a file successfully.
+
+Original sumVioPerContGen.txt is deleted.
+Output sumVioPerContGen.txt info to a file successfully.
+
+Original VioVmGen.txt is deleted.
+Output VioVmGen.txt info to a file successfully.
+
+Original VioBrcGen.txt is deleted.
+Output VioBrcGen.txt info to a file successfully.
+
+Original NotConvGen.txt is deleted.
+Output NotConvGen.txt info to a file successfully.
+
+Original PerCont_VmVio_Gen.txt is deleted.
+Output PerCont_VmVio_Gen.txt info to a file successfully.
+
+Original PerCont_BrcVio_Gen.txt is deleted.
+Output PerCont_BrcVio_Gen.txt info to a file successfully.
+
+Original PerCont_PVtoPQ_Gen.txt is deleted.
+Output PerCont_PVtoPQ_Gen.txt info to a file successfully.
+
+Output filesChecked.txt to a file successfully.
+Output CaGeneral Info to a file successfully.
+Output CaGeneralInfo_Gen to a file successfully.
+Output CaGeneralInfo_Transm to a file successfully.
+
+   Total time : 0.28679672

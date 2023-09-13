@@ -1,0 +1,4 @@
+ No., GenContingencyIndex, GenBusNumber, #ofBrcVio, MaxBrcVio
+ 1 31 125 1 0.30035067
+ 2 205 1664 1 0.14455462
+ 3 245 1883 1 0.09640306

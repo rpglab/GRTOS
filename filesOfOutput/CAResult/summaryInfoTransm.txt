@@ -1,0 +1,25 @@
+ ******************************************************************************
+ All_values_are_based_on_per_unit_here............
+ RateC_is_used_for_analyzing_Brc_Violation
+ Number_of_branch_that_were_performed_Nm1:2251
+ Number_of_Contingencies_that_did_not_converge:0
+ Total_Number_of_Voltage_Violations:0
+ Total_Number_of_Low_Voltage_Violations:0
+ Total_Number_of_High_Voltage_Violations:0
+ Total_Number_of_Branch_Thermal_Violations:8
+ Maximum_Branch_Thermal_Violations_for_all_contingencies:0.17319512
+ Maximum_Branch_Thermal_Violations_for_all_contingencies(In_Percentage):8.251297%
+ Maximum_Voltage_Violation_for_all_contingencies:0.0
+ Maximum_Low_Voltage_Violation_for_all_contingencies:0.0
+ Maximum_High_Voltage_Violation_for_all_contingencies:0.0
+ Number_of_Contingencies_that_Cause_Vm_Violation:0
+ Number_of_Contingencies_that_Cause_Low_Vm_Violation:0
+ Number_of_Contingencies_that_Cause_High_Vm_Violation:0
+ Number_of_Contingencies_that_Cause_Brc_Violation:7
+ Number_of_Contingencies_that_have_PQ_switched_from_original_PV:2251
+ Total_violation_of_branch_thermal_limit_is:0.6411339
+ Total_violation_of_Voltage_is:0.0
+ Total_violation_of_High-Voltage_is:0.0
+ Total_violation_of_Low-Voltage_is:0.0
+ ******************************************************************************
+

@@ -1,0 +1,4 @@
+ Branch index starts from 1.
+ No., idxContiBrc, frmBusNum, toBusNum, brcID
+ 1 22 15 24 1
+ 2 34 24 3 1

@@ -1,0 +1,6 @@
+2020-05-19 15:59:33 No.1 t=0.00 seconds [ Start, diary record starts here ... ]
+2020-05-19 15:59:33 No.2 t=0.01 seconds [ CheckPoint, this is a check point ]
+2020-05-19 15:59:33 No.3 t=0.01 seconds [ Warning, this is a warning record ]
+2020-05-19 15:59:33 No.4 t=0.01 seconds [ Log, this is a normal log information ]
+2020-05-19 15:59:33 No.5 t=0.01 seconds [ Error, this is a error log information ]
+2020-05-19 15:59:33 No.6 t=0.01 seconds [ End, diary record ends here ... ]

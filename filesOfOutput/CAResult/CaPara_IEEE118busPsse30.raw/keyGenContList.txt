@@ -1,0 +1,2 @@
+ Gen index starts from 1.
+ No., idxContiGen, genBusNum, genID

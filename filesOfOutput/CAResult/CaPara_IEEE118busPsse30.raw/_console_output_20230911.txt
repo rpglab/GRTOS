@@ -1,0 +1,302 @@
+MPJ Express (0.43) is started in the multicore configuration
+   Inputs: 0 4 
+   Inputs: 1 4 
+   Inputs: 2 4 
+   Inputs: 3 4 
+uri: psseraw:file=input/IEEE118busPsse30.raw&lowx=adjust
+uri: psseraw:file=input/IEEE118busPsse30.raw&lowx=adjust
+uri: psseraw:file=input/IEEE118busPsse30.raw&lowx=adjust
+uri: psseraw:file=input/IEEE118busPsse30.raw&lowx=adjust
+The original power flow converged.
+num: 71, nIter: 18, _nStartGen: 36, _nEndGen: 53, rank: 2
+Gen Contingency: 36, _rank: 2
+num: 71, nIter: 17, _nStartGen: 54, _nEndGen: 70, rank: 3
+Gen Contingency: 54, _rank: 3
+Generator contingency analysis starts running
+num: 71, nIter: 18, _nStartGen: 0, _nEndGen: 17, rank: 0
+Gen Contingency: 0, _rank: 0
+num: 71, nIter: 18, _nStartGen: 18, _nEndGen: 35, rank: 1
+Gen Contingency: 18, _rank: 1
+Gen Contingency: 37, _rank: 2
+Gen Contingency: 38, _rank: 2
+Gen Contingency: 55, _rank: 3
+Gen Contingency: 1, _rank: 0
+Gen Contingency: 39, _rank: 2
+Gen Contingency: 56, _rank: 3
+Gen Contingency: 19, _rank: 1
+Gen Contingency: 40, _rank: 2
+Gen Contingency: 2, _rank: 0
+Gen Contingency: 57, _rank: 3
+Gen Contingency: 41, _rank: 2
+Gen Contingency: 58, _rank: 3
+Gen Contingency: 3, _rank: 0
+Gen Contingency: 59, _rank: 3
+Gen Contingency: 20, _rank: 1
+Gen Contingency: 42, _rank: 2
+Gen Contingency: 4, _rank: 0
+Gen Contingency: 60, _rank: 3
+Gen Contingency: 21, _rank: 1
+Gen Contingency: 61, _rank: 3
+Gen Contingency: 43, _rank: 2
+Gen Contingency: 5, _rank: 0
+Gen Contingency: 62, _rank: 3
+Gen Contingency: 22, _rank: 1
+Gen Contingency: 6, _rank: 0
+Gen Contingency: 63, _rank: 3
+Gen Contingency: 23, _rank: 1
+Gen Contingency: 44, _rank: 2
+Gen Contingency: 64, _rank: 3
+Gen Contingency: 24, _rank: 1
+Gen Contingency: 7, _rank: 0
+Gen Contingency: 45, _rank: 2
+Gen Contingency: 65, _rank: 3
+Gen Contingency: 46, _rank: 2
+Gen Contingency: 25, _rank: 1
+Gen Contingency: 8, _rank: 0
+Gen Contingency: 26, _rank: 1
+Gen Contingency: 66, _rank: 3
+Gen Contingency: 47, _rank: 2
+Gen Contingency: 27, _rank: 1
+Gen Contingency: 9, _rank: 0
+Gen Contingency: 67, _rank: 3
+Gen Contingency: 48, _rank: 2
+Gen Contingency: 49, _rank: 2
+Gen Contingency: 28, _rank: 1
+Gen Contingency: 68, _rank: 3
+Gen Contingency: 10, _rank: 0
+Gen Contingency: 29, _rank: 1
+Gen Contingency: 30, _rank: 1
+Gen Contingency: 50, _rank: 2
+Gen Contingency: 31, _rank: 1
+Gen Contingency: 11, _rank: 0
+Gen Contingency: 32, _rank: 1
+Gen Contingency: 51, _rank: 2
+Gen Contingency: 69, _rank: 3
+Gen Contingency: 33, _rank: 1
+Gen Contingency: 70, _rank: 3
+Gen Contingency: 52, _rank: 2
+Gen Contingency: 12, _rank: 0
+Gen Contingency: 34, _rank: 1
+Gen Contingency: 53, _rank: 2
+Gen Contingency: 13, _rank: 0
+_rank: 3 is done with Generator Contingency Analysis. # of Contingencies checked: 17
+Gen Contingency: 35, _rank: 1
+_rank: 2 is done with Generator Contingency Analysis. # of Contingencies checked: 18
+_rank: 1 is done with Generator Contingency Analysis. # of Contingencies checked: 18
+Gen Contingency: 14, _rank: 0
+Gen Contingency: 15, _rank: 0
+Gen Contingency: 16, _rank: 0
+Gen Contingency: 17, _rank: 0
+_rank: 0 is done with Generator Contingency Analysis. # of Contingencies checked: 18
+Generator contingency analysis simulation is done
+Transmission contingency analysis starts running
+num: 177, nIter: 45, _nStartTransm: 0, _nEndTransm: 44, rank: 0
+Brc Contingency: 0, _rank: 0
+num: 177, nIter: 44, _nStartTransm: 45, _nEndTransm: 88, rank: 1
+Brc Contingency: 47, _rank: 1
+num: 177, nIter: 44, _nStartTransm: 89, _nEndTransm: 132, rank: 2
+Brc Contingency: 91, _rank: 2
+num: 177, nIter: 44, _nStartTransm: 133, _nEndTransm: 176, rank: 3
+Brc Contingency: 138, _rank: 3
+Brc Contingency: 1, _rank: 0
+Brc Contingency: 48, _rank: 1
+Brc Contingency: 49, _rank: 1
+Brc Contingency: 92, _rank: 2
+Brc Contingency: 2, _rank: 0
+Brc Contingency: 139, _rank: 3
+Brc Contingency: 3, _rank: 0
+Brc Contingency: 93, _rank: 2
+Brc Contingency: 50, _rank: 1
+Brc Contingency: 4, _rank: 0
+Brc Contingency: 94, _rank: 2
+Brc Contingency: 140, _rank: 3
+Brc Contingency: 95, _rank: 2
+Brc Contingency: 5, _rank: 0
+Brc Contingency: 96, _rank: 2
+Brc Contingency: 141, _rank: 3
+Brc Contingency: 51, _rank: 1
+Brc Contingency: 7, _rank: 0
+Brc Contingency: 97, _rank: 2
+Brc Contingency: 142, _rank: 3
+Brc Contingency: 52, _rank: 1
+Brc Contingency: 9, _rank: 0
+Brc Contingency: 98, _rank: 2
+Brc Contingency: 143, _rank: 3
+Brc Contingency: 53, _rank: 1
+Brc Contingency: 10, _rank: 0
+Brc Contingency: 99, _rank: 2
+Brc Contingency: 144, _rank: 3
+Brc Contingency: 11, _rank: 0
+Brc Contingency: 54, _rank: 1
+Brc Contingency: 100, _rank: 2
+Brc Contingency: 145, _rank: 3
+Brc Contingency: 12, _rank: 0
+Brc Contingency: 101, _rank: 2
+Brc Contingency: 13, _rank: 0
+Brc Contingency: 55, _rank: 1
+Brc Contingency: 146, _rank: 3
+Brc Contingency: 102, _rank: 2
+Brc Contingency: 14, _rank: 0
+Brc Contingency: 147, _rank: 3
+Brc Contingency: 103, _rank: 2
+Brc Contingency: 15, _rank: 0
+Brc Contingency: 56, _rank: 1
+Brc Contingency: 148, _rank: 3
+Brc Contingency: 104, _rank: 2
+Brc Contingency: 16, _rank: 0
+Brc Contingency: 149, _rank: 3
+Brc Contingency: 57, _rank: 1
+Brc Contingency: 105, _rank: 2
+Brc Contingency: 17, _rank: 0
+Brc Contingency: 150, _rank: 3
+Brc Contingency: 106, _rank: 2
+Brc Contingency: 58, _rank: 1
+Brc Contingency: 18, _rank: 0
+Brc Contingency: 151, _rank: 3
+Brc Contingency: 107, _rank: 2
+Brc Contingency: 59, _rank: 1
+Brc Contingency: 19, _rank: 0
+Brc Contingency: 108, _rank: 2
+Brc Contingency: 152, _rank: 3
+Brc Contingency: 60, _rank: 1
+Brc Contingency: 20, _rank: 0
+Brc Contingency: 109, _rank: 2
+Brc Contingency: 153, _rank: 3
+Brc Contingency: 61, _rank: 1
+Brc Contingency: 110, _rank: 2
+Brc Contingency: 21, _rank: 0
+Brc Contingency: 154, _rank: 3
+Brc Contingency: 111, _rank: 2
+Brc Contingency: 62, _rank: 1
+Brc Contingency: 22, _rank: 0
+Brc Contingency: 155, _rank: 3
+Brc Contingency: 113, _rank: 2
+Brc Contingency: 63, _rank: 1
+Brc Contingency: 23, _rank: 0
+Brc Contingency: 156, _rank: 3
+Brc Contingency: 114, _rank: 2
+Brc Contingency: 24, _rank: 0
+Brc Contingency: 157, _rank: 3
+Brc Contingency: 64, _rank: 1
+Brc Contingency: 25, _rank: 0
+Brc Contingency: 115, _rank: 2
+Brc Contingency: 65, _rank: 1
+Brc Contingency: 158, _rank: 3
+Brc Contingency: 26, _rank: 0
+Brc Contingency: 66, _rank: 1
+Brc Contingency: 159, _rank: 3
+Brc Contingency: 27, _rank: 0
+Brc Contingency: 116, _rank: 2
+Brc Contingency: 28, _rank: 0
+Brc Contingency: 160, _rank: 3
+Brc Contingency: 67, _rank: 1
+Brc Contingency: 117, _rank: 2
+Brc Contingency: 68, _rank: 1
+Brc Contingency: 29, _rank: 0
+Brc Contingency: 161, _rank: 3
+Brc Contingency: 118, _rank: 2
+Brc Contingency: 69, _rank: 1
+Brc Contingency: 119, _rank: 2
+Brc Contingency: 30, _rank: 0
+Brc Contingency: 162, _rank: 3
+Brc Contingency: 120, _rank: 2
+Brc Contingency: 70, _rank: 1
+Brc Contingency: 31, _rank: 0
+Brc Contingency: 163, _rank: 3
+Brc Contingency: 71, _rank: 1
+Brc Contingency: 32, _rank: 0
+Brc Contingency: 121, _rank: 2
+Brc Contingency: 72, _rank: 1
+Brc Contingency: 164, _rank: 3
+Brc Contingency: 73, _rank: 1
+Brc Contingency: 33, _rank: 0
+Brc Contingency: 122, _rank: 2
+Brc Contingency: 74, _rank: 1
+Brc Contingency: 34, _rank: 0
+Brc Contingency: 165, _rank: 3
+Brc Contingency: 75, _rank: 1
+Brc Contingency: 123, _rank: 2
+Brc Contingency: 35, _rank: 0
+Brc Contingency: 76, _rank: 1
+Brc Contingency: 166, _rank: 3
+Brc Contingency: 124, _rank: 2
+Brc Contingency: 36, _rank: 0
+Brc Contingency: 77, _rank: 1
+Brc Contingency: 167, _rank: 3
+Brc Contingency: 78, _rank: 1
+Brc Contingency: 37, _rank: 0
+Brc Contingency: 125, _rank: 2
+Brc Contingency: 79, _rank: 1
+Brc Contingency: 168, _rank: 3
+Brc Contingency: 80, _rank: 1
+Brc Contingency: 126, _rank: 2
+Brc Contingency: 38, _rank: 0
+Brc Contingency: 169, _rank: 3
+Brc Contingency: 81, _rank: 1
+Brc Contingency: 39, _rank: 0
+Brc Contingency: 127, _rank: 2
+Brc Contingency: 170, _rank: 3
+Brc Contingency: 82, _rank: 1
+Brc Contingency: 40, _rank: 0
+Brc Contingency: 128, _rank: 2
+Brc Contingency: 41, _rank: 0
+Brc Contingency: 83, _rank: 1
+Brc Contingency: 171, _rank: 3
+Brc Contingency: 42, _rank: 0
+Brc Contingency: 84, _rank: 1
+Brc Contingency: 129, _rank: 2
+Brc Contingency: 43, _rank: 0
+Brc Contingency: 172, _rank: 3
+Brc Contingency: 85, _rank: 1
+Brc Contingency: 130, _rank: 2
+Brc Contingency: 86, _rank: 1
+Brc Contingency: 44, _rank: 0
+Brc Contingency: 131, _rank: 2
+Brc Contingency: 173, _rank: 3
+Brc Contingency: 45, _rank: 0
+Brc Contingency: 134, _rank: 2
+Brc Contingency: 87, _rank: 1
+Brc Contingency: 174, _rank: 3
+Brc Contingency: 46, _rank: 0
+_rank: 0 is done with Transmission Contingency Analysis. # of Contingencies checked: 45
+Brc Contingency: 135, _rank: 2
+Brc Contingency: 88, _rank: 1
+Brc Contingency: 177, _rank: 3
+Brc Contingency: 89, _rank: 1
+Brc Contingency: 136, _rank: 2
+Brc Contingency: 178, _rank: 3
+Brc Contingency: 90, _rank: 1
+Brc Contingency: 137, _rank: 2
+_rank: 1 is done with Transmission Contingency Analysis. # of Contingencies checked: 44
+Brc Contingency: 179, _rank: 3
+_rank: 2 is done with Transmission Contingency Analysis. # of Contingencies checked: 44
+Brc Contingency: 180, _rank: 3
+Brc Contingency: 181, _rank: 3
+Brc Contingency: 184, _rank: 3
+Brc Contingency: 185, _rank: 3
+_rank: 3 is done with Transmission Contingency Analysis. # of Contingencies checked: 44
+Transmission contingency analysis simulation is done
+   Total time : 0.4931207
+There is no voltage violations in the base case.
+Output Brc Violation Data for base case successfully
+Output summaryInfoTransm.txt info to a file successfully.
+Output sumVioPerContTransm.txt info to a file successfully.
+Output VioVmTransm.txt info to a file successfully.
+Output VioBrcTransm.txt info to a file successfully.
+Output NotConvTransm.txt info to a file successfully.
+Output PerCont_VmVio_Transm.txt info to a file successfully.
+Output PerCont_BrcVio_Transm.txt info to a file successfully.
+Output PerCont_PVtoPQ_Transm.txt info to a file successfully.
+Output summaryInfoGen.txt info to a file successfully.
+Output sumVioPerContGen.txt info to a file successfully.
+Output VioVmGen.txt info to a file successfully.
+Output VioBrcGen.txt info to a file successfully.
+Output NotConvGen.txt info to a file successfully.
+Output PerCont_VmVio_Gen.txt info to a file successfully.
+Output PerCont_BrcVio_Gen.txt info to a file successfully.
+Output PerCont_PVtoPQ_Gen.txt info to a file successfully.
+Output filesChecked.txt to a file successfully.
+Output CaGeneral Info to a file successfully.
+Output CaGeneralInfo_Gen to a file successfully.
+Output CaGeneralInfo_Transm to a file successfully.
+   Total time including file_output : 0.5900912

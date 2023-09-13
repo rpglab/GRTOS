@@ -1,0 +1,4 @@
+ No., GenContingencyIndex, GenBusNumber, idxBrc_Vio, fbusVio, tbusVio, Sfrm, Sto, Sdiff, RateA, RateB, RateC
+ 1 11 23 10 7 8 203.746 196.21794 8.746004 175.0 0.0 195.0
+ 2 11 23 23 16 17 383.8549 385.1424 85.142395 275.0 0.0 300.0
+ 3 11 23 24 16 19 305.87167 302.5 5.8716774 275.0 0.0 300.0

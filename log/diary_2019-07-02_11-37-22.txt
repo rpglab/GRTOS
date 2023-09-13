@@ -1,0 +1,2 @@
+2019-07-02 11:37:22 No.1 t=0.00 seconds [ Start, diary record starts here ... ]
+2019-07-02 11:37:22 No.2 t=0.02 seconds [ Log, Configure file 'CpsConfg.ini' has been loaded ]

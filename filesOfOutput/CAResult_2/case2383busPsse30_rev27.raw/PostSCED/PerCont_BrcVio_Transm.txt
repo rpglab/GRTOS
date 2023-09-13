@@ -1,0 +1,3 @@
+ No., BrcContingencyIndex, fbusCont, tbusCont, #ofBrcVio, MaxBrcVio
+ 1 14 6 31 1 0.06647158
+ 2 196 139 174 1 0.036562085

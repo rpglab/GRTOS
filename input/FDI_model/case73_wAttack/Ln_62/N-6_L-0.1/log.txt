@@ -1,0 +1,17 @@
+1, Total initial generation is 85.500000 p.u.
+2, Total initial load is 85.500000 p.u.
+3, The ratio of initial generation to initial load is 1.000000
+4, After adjustment, total initial generation is 85.500000 p.u.
+
+
+------------ Simulating FDI attack on branch 62 ------------
+
+5, The ratio of initial generation to initial load for an attack on branch 62 is 1.000000
+6, Cyber world, in the simulation attack on branch 62, branch 24 is overloaded by 0.076224 p.u.
+7, Cyber world, in the simulation attack on branch 62, branch 51 is overloaded by 0.125000 p.u.
+8, The ratio of initial generation to initial load for an attack on branch 62 is 1.000000
+9, After adjustment, total initial generation is 85.500000 p.u.
+10, Actual world, in the simulation attack on branch 62, branch 61 is overloaded by 0.022050 p.u. 
+11, Actual world, in the simulation attack on branch 62, branch 62 is overloaded by 0.621689 p.u. 
+12, Actual world, in the simulation attack on branch 62, branch 88 is overloaded by 0.125000 p.u. 
+13, Actual world, in the simulation attack on branch 62, branch 99 is overloaded by 0.002855 p.u. 

@@ -1,0 +1,2 @@
+idx,targetBranchIdx,diffPk,DCOPFObj,lineFlow_DCPF_Init,vioFlagInit,vioAmtInit,lineFlowFDI,lineFlow_DCOPF,lineFlowDCPFActual,pctLoading,lineRateA,vioFlag,vioAmt,FDI_DivgFlag,DCOPF_DivgFlag,DCPF_FDI_DivgFlag,DCPF_DivgFlag,ratios,totalPgSCED,totalPdFDI,totalPdActual
+1,62,62.168916,211555.771385,-315.000000,0,-0.000000,-252.831084,-315.000000,-377.168916,1.197362,315.000000,1,62.168916,0,0,0,0,1.000000,8550.000000,8550.000000,8550.000000
